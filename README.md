@@ -15,10 +15,6 @@ This site will deisplay local bicycle events, so come along and hop onto your wh
 - [How To Read This](#how-to-read-this)
 - [About The Project](#about-the-project)
 - [Prerequisites](#prerequisites)
-- Documentation
-    - [Other md files](./extra.md)
-- [Troubleshooting](#troubleshooting)
-- [Extra Reading](#extra-reading)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -40,9 +36,6 @@ This project is to publish local bike events and to get more people out on the r
 # Prerequisites
 Just need to have or borrow a bike or come to check out the events, while bringing a good attitude.
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-# Documentation
-- [Circuit Race March 13th](./extra.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
