@@ -19,6 +19,12 @@ heading {
     text-transform: uppercase;
 }
 
+ul li {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
 .main-container {
     display: flex;
     align-items: flex-start;
